@@ -5,6 +5,16 @@
 
 - 📫 How to reach me **hashiranhar2021@gmail.com**
 
+<h3 align="left">Companies I've worked at:</h3>
+<p align="left">
+<span><strong>Data Scientist at GSK (GlaxoSmithKline)</strong></span> &nbsp;&nbsp;
+<a href="https://www.gsk.com/" target="_blank" rel="noreferrer"> <img src="https://www.asebio.com/sites/default/files/2022-06/_THE%20SIGNAL%20LOGO.png" alt="GSK" width="40" height="40"/> </a>
+</p>
+<p align="left">
+<span><strong>Research Intern at Imperial College London</strong></span> &nbsp;&nbsp;
+<a href="https://www.imperial.ac.uk/" target="_blank" rel="noreferrer"> <img src="https://fundit.fr/sites/default/files/styles/max_650x650/public/institutions/capture-decran-2023-08-11-155740.png?itok=nqB6ngcR" alt="Imperial College London" width="40" height="40"/> </a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> &nbsp;
